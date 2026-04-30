@@ -2,11 +2,16 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
-
-
-
-
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/YanG-1989/gather/main/IPTV.m3u
+https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tvguide.m3u
+https://raw.githubusercontent.com/MoYujy/P3P/main/P3P.m3u
+https://raw.githubusercontent.com/kimentanm/aptv/master/m3u/iptv.m3u
+https://iptv-org.github.io/iptv/countries/cn.m3u
+https://raw.githubusercontent.com/MyIPTV/Live/main/live.m3u
+https://raw.githubusercontent.com/Guovern/TV/master/Result.m3u
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
